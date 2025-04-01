@@ -34,7 +34,7 @@
       {
         "id": 4,
         "text": "Решите уравнение и выберите правильный ответ",
-        "image": "./assets/img/urav.png",
+        "image": "/assets/img/urav.png",
         "answers": [
           {"text": "3", "correct": true},
           {"text": "5", "correct": false},
