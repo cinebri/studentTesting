@@ -1,0 +1,45 @@
+{
+    "testTitle": "Математический тест",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Сколько будет 2+2?",
+        "image": null,
+        "answers": [
+          {"text": "3", "correct": false},
+          {"text": "4", "correct": true},
+          {"text": "5", "correct": false}
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Какое из этих чисел четное?",
+        "image": null,
+        "answers": [
+          {"text": "2", "correct": true},
+          {"text": "5", "correct": false},
+          {"text": "9", "correct": false}
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Какое из этих чисел нечетное?",
+        "image": null,
+        "answers": [
+          {"text": "2", "correct": false},
+          {"text": "4", "correct": false},
+          {"text": "3", "correct": true}
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Решите уравнение и выберите правильный ответ",
+        "image": "../../assets/img/urav.png",
+        "answers": [
+          {"text": "3", "correct": true},
+          {"text": "5", "correct": false},
+          {"text": "9", "correct": false}
+        ]
+      }
+    ]
+  }
